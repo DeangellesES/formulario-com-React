@@ -1,3 +1,21 @@
+Inserindo senha e e-mail
+![tela1](https://github.com/DeangellesES/Formulario-com-React/blob/main/cadastroEmailSenha.png)
+
+Erro na validação da senha
+![tela1](https://github.com/DeangellesES/Formulario-com-React/blob/main/errosenha.png)
+
+Inserindo nome, sobrnome e CPF
+![tela2](https://github.com/DeangellesES/Formulario-com-React/blob/main/cadastroNomeSobrenomeCPF.png)
+
+Erro na validação do nome e CPF
+![tela2](https://github.com/DeangellesES/Formulario-com-React/blob/main/erroNomeCPF.png)
+
+Inserindo CEP, Endereco, Numero, Estado, Cidade
+![tela3](https://github.com/DeangellesES/Formulario-com-React/blob/main/CEPenderecoNumeroEstadoCidade.png)
+
+Cadastro finalizado
+![tela4](https://github.com/DeangellesES/Formulario-com-React/blob/main/cadastroFinalizado.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
